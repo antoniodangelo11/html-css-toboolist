@@ -94,6 +94,12 @@ li{
     color: #60d1ba;
 }
 
+.checkmark-red {
+    border-radius: 50%;
+    border: 1px solid #E7433C;
+    color: #E7433C;
+}
+
 .Paper {
     padding: 7px 15px 7px 15px;
     background-color: #47ADF1;
@@ -110,12 +116,6 @@ li{
     border-radius: 20px;
     border-style: none;
     font-size: 0.5em;
-}
-
-.checkmark-red {
-    border-radius: 50%;
-    border: 1px solid #E7433C;
-    color: #E7433C;
 }
 
 #recruit {
