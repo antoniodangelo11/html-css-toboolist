@@ -5,7 +5,7 @@
 }
 
 body{
-    background-color: rgb(233, 233, 233)
+    background-color: #F6F8F9
 }
 
 header {
@@ -32,24 +32,31 @@ h1 {
 }
 
 nav {
-    margin: 1px 25%;
-    padding: 25px 20px 25px 30px;
+    margin: 2px 25%;
+    padding: 20px 45px 15px 45px;
     background-color: white;
     border-radius: 5px 5px 0px 0px;
 }
 
 .btn-blue {
+    padding: 5px;
+    background-color: #47ADF1;
     text-align: center;
     color: rgb(255, 255, 255);
-    border-radius: 20px;
-    font-size: 0.7em;
+    border-radius: 5px 5px 5px 5px;
+    border-style: none;
+    font-size: 1em;
+    
 }
 
 .btn-clear {
-    background-color: rgb(255, 255, 255);
+    padding: 5px;
+    background: none;
     text-align: center;
-    color: grey;
-    border-radius: 20px;
+    color: #CED3D7;
+    border-radius: 5px 5px 5px 5px;
+    border: 1px solid #CED3D7;
+    font-size: 1em;
 }
 
 .center-container {
@@ -58,6 +65,10 @@ nav {
     width: 50%;
     border-radius: 0px 0px 5px 5px;
     padding: 10px;
+}
+
+ul {
+    list-style: none;
 }
 
 
