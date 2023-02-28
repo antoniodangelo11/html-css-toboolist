@@ -39,7 +39,7 @@ nav {
 }
 
 .btn-blue {
-    padding: 5px;
+    padding: 7px 15px 7px 15px;
     background-color: #47ADF1;
     text-align: center;
     color: rgb(255, 255, 255);
@@ -50,7 +50,7 @@ nav {
 }
 
 .btn-clear {
-    padding: 5px;
+    padding: 6px 14px 6px 14px;
     background: none;
     text-align: center;
     color: #CED3D7;
