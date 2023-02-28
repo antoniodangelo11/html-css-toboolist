@@ -19,11 +19,14 @@ header {
     width: 60px;
 }
 
+.container {
+    margin-top: 3%;
+}
+
 .center-container {
     background-color: white;
     margin: auto;
     width: 50%;
-    border: 1px solid black;
     border-radius: 5px;
     padding: 10px;
 }
@@ -37,18 +40,16 @@ h1 {
 }
 
 nav{
-    margin: 5% 30%;
-    padding: 10px;
+    margin: 1px 25%;
+    padding: 25px 20px 25px 30px;
     background-color: white;
-    border: 1px solid black;
     border-radius: 5px;
 }
 
 .btn-blue {
     text-align: center;
     color: rgb(255, 255, 255);
-    border-radius: 50%;
-    border: 1px solid black;
+    border-radius: 20px;
     font-size: 0.7em;
 }
 
