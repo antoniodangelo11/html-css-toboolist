@@ -84,10 +84,14 @@ h2 {
 }
 
 .checkmark-green {
+    border-radius: 50%;
+    border: 1px solid #60d1ba;
     color: #60d1ba;
 }
 
 .checkmark-red {
+    border-radius: 50%;
+    border: 1px solid #E7433C;
     color: #E7433C;
 }
 
