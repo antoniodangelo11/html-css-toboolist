@@ -4,14 +4,28 @@
     font-family: 'Open Sans', sans-serif;
 }
 
+body{
+    background-color: rgb(233, 233, 233)
+}
+
+header {
+    background-color: white;
+    padding: 5px;
+}
+
 .logo {
     margin-top: 15px;
     margin-left: 20px;
     width: 60px;
 }
 
-.container {
-    max-width: 900px;
+.center-container {
+    background-color: white;
+    margin: auto;
+    width: 50%;
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 10px;
 }
 
 h1 {
@@ -22,11 +36,20 @@ h1 {
     margin-left: 5px;
 }
 
+nav{
+    margin: 5% 30%;
+    padding: 10px;
+    background-color: white;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+
 .btn-blue {
-    background-color: rgb(255, 255, 255);
     text-align: center;
-    color: rgb(219, 27, 27);
-    border-radius: 20px;
+    color: rgb(255, 255, 255);
+    border-radius: 50%;
+    border: 1px solid black;
+    font-size: 0.7em;
 }
 
 .btn-clear {
