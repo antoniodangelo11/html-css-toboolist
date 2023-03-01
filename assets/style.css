@@ -1,6 +1,10 @@
 * {
     margin: 0;
     box-sizing: border-box;
+    
+}
+
+html {
     font-family: 'Open Sans', sans-serif;
 }
 
@@ -36,6 +40,7 @@ nav {
 }
 
 .btn-blue {
+    font-family: 'Open Sans', sans-serif;
     padding: 7px 15px 7px 15px;
     background-color: #47ADF1;
     text-align: center;
@@ -47,6 +52,7 @@ nav {
 }
 
 .btn-clear {
+    font-family: 'Open Sans', sans-serif;
     padding: 6px 14px 6px 14px;
     background: none;
     text-align: center;
