@@ -100,6 +100,7 @@ li{
     border: 1px solid #60d1ba;
     border-radius: 50%;
     color: #60d1ba;
+    margin-right: 1px;
 }
 
 .checkmark-red {
@@ -110,61 +111,40 @@ li{
     border: 1px solid #E7433C;
     border-radius: 50%;
     color: #E7433C;
+    margin-right: 1px;
 }
 
 
-.Paper {
+.Paper-l {
     padding: 7px 15px 7px 15px;
+    color: #FFFFFF;
+    border-radius: 20px;
+    border-style: none;
+    font-size: 0.5em;
+}
+
+.blue-e {
     background-color: #47ADF1;
-    color: #FFFFFF;
-    border-radius: 20px;
-    border-style: none;
-    font-size: 0.5em;
 }
 
-#q1 {
-    padding: 7px 15px 7px 15px;
+.purple-e {
     background-color: #9C72E4;
-    color: #FFFFFF;
-    border-radius: 20px;
-    border-style: none;
-    font-size: 0.5em;
 }
 
-#recruit {
-    padding: 7px 15px 7px 15px;
+.green-n {
     background-color: #64C0A9;
-    color: #FFFFFF;
-    border-radius: 20px;
-    border-style: none;
-    font-size: 0.5em;
 }
 
-#mob {
-    padding: 7px 15px 7px 15px;
+.orange-o {
     background-color: #F29E33;
-    color: #FFFFFF;
-    border-radius: 20px;
-    border-style: none;
-    font-size: 0.5em;
 }
 
-#web {
-    padding: 7px 15px 7px 15px;
+.fux-x {
     background-color: #D863A1;
-    color: #FFFFFF;
-    border-radius: 20px;
-    border-style: none;
-    font-size: 0.5em;
 }
 
-#sales {
-    padding: 7px 15px 7px 15px;
+.yellow-w {
     background-color: #B0C926;
-    color: #FFFFFF;
-    border-radius: 20px;
-    border-style: none;
-    font-size: 0.5em;
 }
 
 
