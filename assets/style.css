@@ -89,12 +89,20 @@ li{
 }
 
 .checkmark-green {
+    padding: 0px 0px 0px 3px;
+    display: inline-block;
+    width: 20px;
+    height: 20px;
     border-radius: 50%;
     border: 1px solid #60d1ba;
     color: #60d1ba;
 }
 
 .checkmark-red {
+    padding: 0px 0px 0px 3px;
+    display: inline-block;
+    width: 20px;
+    height: 20px;
     border-radius: 50%;
     border: 1px solid #E7433C;
     color: #E7433C;
