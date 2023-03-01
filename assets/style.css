@@ -93,24 +93,25 @@ li{
 }
 
 .checkmark-green {
-    padding: 0px 0px 0px 3px;
     display: inline-block;
-    width: 20px;
-    height: 20px;
-    border-radius: 50%;
+    width: 1.5em;
+    height: 1.5em;
+    text-align: center;
     border: 1px solid #60d1ba;
+    border-radius: 50%;
     color: #60d1ba;
 }
 
 .checkmark-red {
-    padding: 0px 0px 0px 3px;
     display: inline-block;
-    width: 20px;
-    height: 20px;
-    border-radius: 50%;
+    width: 1.5em;
+    height: 1.5em;
+    text-align: center;
     border: 1px solid #E7433C;
+    border-radius: 50%;
     color: #E7433C;
 }
+
 
 .Paper {
     padding: 7px 15px 7px 15px;
