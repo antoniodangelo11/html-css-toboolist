@@ -89,6 +89,7 @@ li{
 
 .bookmark {
     font-size: 1.2em;
+    vertical-align: -4px;
 }
 
 .checkmark-green {
